@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-27T23:32:25 EET" name="Default suite" finished-at="2022-04-27T23:32:30 EET" duration-ms="4375">
+    <groups>
+    </groups>
+    <test started-at="2022-04-27T23:32:25 EET" name="Default test" finished-at="2022-04-27T23:32:30 EET" duration-ms="4375">
+      <class name="RestAssuredJson.JsonRestAssured">
+        <test-method signature="validate_invalid_response_data()[pri:0, instance:RestAssuredJson.JsonRestAssured@54c562f7]" started-at="2022-04-27T23:32:25 EET" name="validate_invalid_response_data" finished-at="2022-04-27T23:32:27 EET" duration-ms="1844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_invalid_response_data -->
+        <test-method signature="validate_response_code()[pri:0, instance:RestAssuredJson.JsonRestAssured@54c562f7]" started-at="2022-04-27T23:32:27 EET" name="validate_response_code" finished-at="2022-04-27T23:32:29 EET" duration-ms="1462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_response_code -->
+        <test-method signature="validate_response_data()[pri:0, instance:RestAssuredJson.JsonRestAssured@54c562f7]" started-at="2022-04-27T23:32:29 EET" name="validate_response_data" finished-at="2022-04-27T23:32:30 EET" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_response_data -->
+      </class> <!-- RestAssuredJson.JsonRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
