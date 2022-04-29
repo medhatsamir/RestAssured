@@ -2,9 +2,9 @@
 test API for Json and xml data
 
 
-RestAssured used in api testing so in this project we have 2 file rest_assured file this for test xml data .
+RestAssured used in api testing so in this project we have 2 files . rest_assured file this for test xml data .
 in this project we will use a dummy api url .
-before ant test case we sould use the anotation @Test to make sure the compiler will compile this function as a test case .
+before any test case we sould use the anotation @Test to make sure the compiler will compile this function as a test case .
 in this project the first test case to sure that the status code equal 200 . in api respose we have different types of status codes , 
 200 mean that the respones code is correct .
 in the second test case we will test the containt of this xml data we use gherkin language (given then and) and we use assertThat and equalTo 
